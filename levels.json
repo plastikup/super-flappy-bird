@@ -1,0 +1,10 @@
+{
+    "1": [
+        {
+            "type": "pipe",
+            "x": 0,
+            "yRatio": 0.5,
+            "collectable": "coin"
+        }
+    ]
+}
